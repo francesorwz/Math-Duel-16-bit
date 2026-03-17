@@ -1,0 +1,5 @@
+{
+  "name": "Math Duel 16-bit",
+  "description": "A 16-bit style local multiplayer game where players duel by solving math equations and drawing the answers.",
+  "requestFramePermissions": []
+}
